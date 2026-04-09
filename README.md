@@ -1,8 +1,7 @@
-# .github
 # AIFabric Labs
 > AIFabric Labs is an open-source initiative focused on designing and building enterprise-grade AI/ML systems.
 
-## 🧠 What is AI Fabric?
+## What is AI Fabric?
 
 AI Fabric represents a unified layer that connects data, machine learning models, and infrastructure into a seamless, production-ready system.
 
